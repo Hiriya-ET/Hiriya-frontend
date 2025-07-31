@@ -1,7 +1,7 @@
 # Hiriya-frontend
 
-frontend/  
- ├── public/
+frontend/
+├── public/
 ├── src/
 │ ├── assets/
 │ ├── components/
